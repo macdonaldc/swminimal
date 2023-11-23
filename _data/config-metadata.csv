@@ -7,9 +7,9 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
+contributor,Contributors,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
-contributor,Contributors,,,,
