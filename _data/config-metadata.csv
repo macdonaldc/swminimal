@@ -5,7 +5,9 @@ creator_notes,Creator notes,,,,
 contributor,Contributors,,,DCTERMS.contributor,contributor
 date,Date,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
+language,Language,,,DCTERMS.language,language
 subject,Subjects,true,,DCTERMS.subject,keywords
+collection,Collection,true,,,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
