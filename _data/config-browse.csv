@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+collection,Collection,true,,
 identifier,,,true,Identifier
