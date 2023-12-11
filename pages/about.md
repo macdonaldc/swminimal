@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
-
 ## About the Sir George Williams Poetry Series
 
 Between 1966 and 1972 members of the Sir George Williams University (SGWU) Department of English hosted a series of poetry readings that was conceived as an on-going encounter between local (Montreal) poets and some writers from the United States and the rest of Canada. Sponsored by The Poetry Committee of the SGWU Faculty of Arts and the Department of English, these readings involved more than sixty poets from across North America. The series was, in the first instance, the creation of three SGWU professors: Howard Fink and Stanton Hoffman from the Department of English and Roy Kiyooka from the Department of Fine Arts.  Others who were involved in the organization of the series for certain periods included Wynn Francis, Irving Layton, and George Bowering.
