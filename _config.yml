@@ -51,8 +51,8 @@ metadata: CBtest3
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "SpokenWeb"
-#organization-link: https://cdil.lib.uidaho.edu/
-#organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-link: https://spokenweb.ca
+organization-logo-banner: https://spokenwebalberta.github.io/webathon/assets/img/header6.jpeg
 organization-logo-nav: https://archiveofthepresent.spokenweb.ca/_nuxt/img/logo_long_black.5f74374.png
 
 ##########
