@@ -8,26 +8,10 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About the Sir George Williams Poetry Series
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Between 1966 and 1972 members of the Sir George Williams University (SGWU) Department of English hosted a series of poetry readings that was conceived as an on-going encounter between local (Montreal) poets and some writers from the United States and the rest of Canada. Sponsored by The Poetry Committee of the SGWU Faculty of Arts and the Department of English, these readings involved more than sixty poets from across North America. The series was, in the first instance, the creation of three SGWU professors: Howard Fink and Stanton Hoffman from the Department of English and Roy Kiyooka from the Department of Fine Arts.  Others who were involved in the organization of the series for certain periods included Wynn Francis, Irving Layton, and George Bowering.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+An article in the SGWU publication Post-Grad (Spring 1967) described it as “ a series of controversial poetry readings” that attracted hundreds  “of dedicated students, staff and guests—often practicing poetry themselves” plus poetry-lovers and “curiosity seekers”.  One of the benefits noted was the “opportunity to hear several new poets who write specifically for live reading rather than for the printed page” and the “effect” of the series is described as that “of a group of people sitting together in deep discussion”.   The poetry series was documented using reel to reel tape machines by technicians working for the Sir George Williams Centre for Instructional Technology, a state of the art facility that was tasked with capturing content such as lectures and readings, throughout the university.  The result of their work in recording and preserving these readings is a collection of 80 audio reels (67 hrs. 20 min.) that capture some of the best known poets from Canada and the United States during that period. 
