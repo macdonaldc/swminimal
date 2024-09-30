@@ -9,7 +9,10 @@ layout: item/item-page-base
     
         {% if page.object_location contains 'vimeo' or page.object_location contains 'youtu' %}
         {% include item/video-embed.html %}
+        {% elseif page.object_location contains 'archive'  %}
+        {% include item/archive_reader.md %}
         {% else %}
+
         {% include item/video-player.html %}
         {% endif %}
 
